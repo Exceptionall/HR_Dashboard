@@ -29,8 +29,6 @@ To use this project:
 3. Review dashboards to gain insights into workforce demographics, performance metrics, and other HR-related statistics.
 
 ## Technologies Used
-- **Python**: Used for initial data cleaning and manipulation.
-- **Pandas**: For data manipulation and analysis.
 - **Tableau**: To create visual dashboards for HR insights.
 - **CSV/Excel**: Original data source format for HR records.
 
