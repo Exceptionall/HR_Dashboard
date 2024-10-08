@@ -1,8 +1,5 @@
 # HR Data Analysis Dashboard
 
-## Overview
-This project focuses on analyzing the Human Resources (HR) dataset to uncover key insights about the workforce. The analysis aims to provide a deeper understanding of employee demographics, performance, and retention, helping HR departments make informed decisions to improve overall productivity and employee satisfaction.
-
 ## Description
 The HR data analysis explores employee metrics such as attrition rates, departmental performance, gender and age distribution, and more. The project presents findings through interactive dashboards built in Tableau, allowing users to explore data-driven insights quickly and efficiently.
 
@@ -14,6 +11,9 @@ The HR data analysis explores employee metrics such as attrition rates, departme
 - [Steps Involved](#steps-involved)
 - [Summary](#summary)
 - [Screenshots of the Dashboard](#screenshots-of-the-dashboard)
+
+## Overview
+This project focuses on analyzing the Human Resources (HR) dataset to uncover key insights about the workforce. The analysis aims to provide a deeper understanding of employee demographics, performance, and retention, helping HR departments make informed decisions to improve overall productivity and employee satisfaction.
 
 ## Features
 - **Employee Analysis**: Review employee data, including demographics, performance, and department distribution.
